@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { ClerkProvider, UserButton } from "@clerk/nextjs";
 
 export const metadata: Metadata = {
-  title: "Borcella Auth",
+  title: "Borcella Dashboard",
   description: "Auth Borcella",
 };
 
